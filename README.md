@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+🌱 I’m currently learning - Java / SQL / Python
+👯 I’m a begginer so i'm open to suggestions and helpful tips!
 
 <!--
 **Lucas-sfi/Lucas-sfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
